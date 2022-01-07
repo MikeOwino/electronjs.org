@@ -3365,15 +3365,15 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-api-historian@1.75.0:
-  version "1.75.0"
-  resolved "https://registry.yarnpkg.com/electron-api-historian/-/electron-api-historian-1.75.0.tgz#e392aad739f193a13ef278450bfc0392818ddfff"
-  integrity sha512-YDv9fXaeIizehsAx30+lCW5Wl42hhDpKzF4zuqqJNS4hYxO2sb4NPBFBppX//I0gRRK6S5OR2zelxTvwYNo3dg==
+electron-api-historian@1.76.0:
+  version "1.76.0"
+  resolved "https://registry.yarnpkg.com/electron-api-historian/-/electron-api-historian-1.76.0.tgz#0e4d2c67f73f8941425985a1a4f6b6ae896777bf"
+  integrity sha512-+eFGBqU4qizGdoZdeHP8brlyI5XClrwzk8q51AI9w2HDgFm14YzElEYqX+cnphEILb1WDbduKMmfE2uq3YQT7Q==
 
-electron-apps@1.9119.0:
-  version "1.9119.0"
-  resolved "https://registry.yarnpkg.com/electron-apps/-/electron-apps-1.9119.0.tgz#c4b46d57127624dec830d3882252ec6814a18b30"
-  integrity sha512-KEKcRgUnkfX8UC8v6Ofzdfc0rZFS4CKP8usTsGjsO1PEEWd+Zy49pnG41ixgfHC37zWasceUBqpsBudW3wQwNw==
+electron-apps@1.9121.0:
+  version "1.9121.0"
+  resolved "https://registry.yarnpkg.com/electron-apps/-/electron-apps-1.9121.0.tgz#83979165c0a513a2c711efe3b220964d80158ddd"
+  integrity sha512-LhzMpZMYPBMrk5u19mNu+GzxJeiq3PZOmDqF5/NodyGSQ6L0jD/Uvs4nwcjAFlHIXT0/Zeg7xwYN1JSkIdWLzA==
   dependencies:
     json-stable-stringify "^1.0.1"
     mime-types "^2.1.30"
@@ -3397,10 +3397,10 @@ electron-markdown@^0.9.0:
     rehype-slug "^4.0.0"
     remark-gemoji-to-emoji "^1.1.0"
 
-electron-releases@3.914.0:
-  version "3.914.0"
-  resolved "https://registry.yarnpkg.com/electron-releases/-/electron-releases-3.914.0.tgz#0dd9b141abfdd04116904816d9dec18f5ed4e5df"
-  integrity sha512-75JuMAuV5tTWst688X1cWmUFp9e62m3QVkhylaWtWP3mmH2kuxfAWSwf8zbaiPHyxAYiPtS2HH5wRifcO9eLLA==
+electron-releases@3.915.0:
+  version "3.915.0"
+  resolved "https://registry.yarnpkg.com/electron-releases/-/electron-releases-3.915.0.tgz#71f02546bf62230f62f151a5fafd95c61aa55e3b"
+  integrity sha512-5560Ryu1YCbq3WBXs6bw9To8C48QBhl4f/GZVD1wjgYeZ8OvMfnNSNcsaLFBIlUBEmoq6JrBJvEnI5WFSiOmhQ==
 
 electron-to-chromium@^1.3.857:
   version "1.3.864"
