@@ -3398,10 +3398,10 @@ electron-markdown@^0.9.0:
     rehype-slug "^4.0.0"
     remark-gemoji-to-emoji "^1.1.0"
 
-electron-releases@3.1063.0:
-  version "3.1063.0"
-  resolved "https://registry.yarnpkg.com/electron-releases/-/electron-releases-3.1063.0.tgz#d2c4364d89eb41e5553e2a83ff978beae5867e0c"
-  integrity sha512-LLJwK5BbxcH9uY1yeQfqEWVpsdx3JPNF3G0VpdT3S4/XPHul1CGkxLTLTI9s9m5FB+pBcLKyqUEDK7vVMcGOLQ==
+electron-releases@3.1065.0:
+  version "3.1065.0"
+  resolved "https://registry.yarnpkg.com/electron-releases/-/electron-releases-3.1065.0.tgz#a862d5e4555e1585e096af4be29b4ce55bf29e6b"
+  integrity sha512-z1XLSbjEeLLMk4zJLt9eMk/WLKzgBsQafOHrb4Xq6tF5wCtGV5pacvJn+7TmE5cxWOCA4xncHyR76/wbd3XP+w==
 
 electron-to-chromium@^1.3.857:
   version "1.3.864"
